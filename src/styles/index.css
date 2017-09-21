@@ -1,0 +1,102 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width:100%;
+  font-family: sans-serif;
+  background-color: #B3B5BB;
+}
+
+
+.home{
+  width: 100%;
+  display: flex;
+  text-align: center;
+  height: 900px;
+  background-image: url("../styles/StockSnap_TWDEPDVQUR.jpg");
+  background-size: cover;
+  background-position: top;
+  box-shadow:rgba(0, 0, 0, 0.22) -2px 9px 5px 0px;
+
+}
+
+.home h3{
+  color: #114B5F;
+  line-height: 1.5;
+  text-shadow: 1px 1px 2px #FFFAE3;
+  font-size: 3rem;
+}
+
+#title{
+  font-size: 13rem;
+  color: #114B5F;
+  font-family: 'Dancing Script', cursive;
+  text-shadow: 4px 4px 5px #5D576B;
+  padding-top: 30px;
+}
+
+#aboutCard{
+  margin: 50px;
+}
+
+.card{
+  width: 55%;
+  line-height: 2.0;
+}
+.card a{
+  padding:20px;
+  margin-left: 10px;
+  font-size: 20px;
+  color: #5D576B;
+}
+
+.card a:visited{
+  padding:20px;
+  font-size: 20px;
+  color: #5D576B;
+}
+
+.home a{
+  padding:20px;
+  font-size: 20px;
+  color: #114B5F;
+}
+
+.home a:visited{
+  padding:20px;
+  font-size: 20px;
+  color: #114B5F;
+}
+
+li a{
+  color: #FFFAE3;
+}
+
+li a:active{
+  background-color: #B3B5BB;
+}
+
+#git{
+  color: #FFFAE3;
+  padding: 10px;
+  font-size: 26px;
+  margin-left: 45%;
+}
+
+#git:visited{
+  color: #FFFAE3;
+  padding: 10px;
+  font-size: 26px;
+  margin-left: 45%;
+}
+
+p{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
