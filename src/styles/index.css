@@ -100,3 +100,20 @@ p{
 h4{
   text-align: center;
 }
+
+.references p{
+  text-align: left;
+  margin-left: 50%;
+  font-size: 20px;
+  width: 100%;
+}
+
+.references h3{
+  margin-left:40%;
+  font-size: 30px;
+  padding-top: 15px;
+}
+
+.references h6{
+  margin-left:40%;
+}
